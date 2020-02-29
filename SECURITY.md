@@ -102,7 +102,7 @@ life-cycle:
 
 This is a living document and may be updated from time to time. Please refer to
 the
-[git history](https://github.com/tunnckoCore/hela/commits/master/.github/SECURITY.md)
+[git history](https://github.com/node-formidable/.github/commits/master/SECURITY.md)
 for this document to view the changes.
 
 ### License
