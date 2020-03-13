@@ -34,8 +34,8 @@ assignees: ''
 #### Context
 
 - _node version_:
-- _module version_:
-- _environment_ (e.g. node, browser, native):
+- _module (formidable) version_:
+- _environment_ (e.g. node, browser, native, OS):
 - _used with_ (i.e. popular names of modules):
 - _any other relevant information_:
 
