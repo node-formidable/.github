@@ -16,7 +16,7 @@ assignees: ''
   ⚠️ ⚠️ ⚠️ ⚠️ ⚠️ ⚠️
 -->
 
-#### Support plan
+### Support plan
 
 <!--
   We are here to help!
@@ -26,20 +26,19 @@ assignees: ''
   Most community support issues are resolved within 2 weeks.
 -->
 
-- _which support plan is this issue covered by?_ (e.g. Community, Sponsor, or
-  Enterprise):
-- _is this issue currently blocking your project?_ (yes/no):
-- _is this issue affecting a production system?_ (yes/no):
+- Which support plan is this issue covered by? (Community, Sponsor, Enterprise):
+- Currently blocking your project/work? (yes/no):
+- Affecting a production system? (yes/no):
 
-#### Context
+### Context
 
-- _node version_:
-- _module (formidable) version_:
-- _environment_ (e.g. node, browser, native, OS):
-- _used with_ (i.e. popular names of modules):
-- _any other relevant information_:
+- Node.js version:
+- [Release Line](https://github.com/node-formidable/formidable/issues/769) of Formidable (Legacy, Current, Next):
+- Formidable exact version:
+- Environment (node, browser, native, OS):
+- Used with (popular names of modules):
 
-#### What are you trying to achieve or the steps to reproduce?
+### What are you trying to achieve or the steps to reproduce?
 
 <!--
   Describe your issue in detail, including use cases, examples, and alternative
@@ -53,6 +52,6 @@ assignees: ''
 const some = 'properly formatted code example';
 ```
 
-#### What was the result you got?
+### What was the result you got?
 
-#### What result did you expect?
+### What result did you expect?
