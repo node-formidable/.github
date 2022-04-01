@@ -69,7 +69,7 @@ HTTPS?"
 Any new code pushed to production is first thoroughly tested in a staging
 environment. Mechanisms are in place for rolling back any changes that are
 pushed to production. If a schema-change is involved, an inverse migration is
-first tested in staging (we want to be confident that we should role things
+first tested in staging (we want to be confident that we can roll things
 back).
 
 ### Unit Testing
