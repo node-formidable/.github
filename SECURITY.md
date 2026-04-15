@@ -9,7 +9,7 @@ security threats when they arise.
 Let’s keep things simple.
 
 If you think you have identified a security vulnerability with any module or
-repository, please report it immediately to [**security@tunnckocore.com**](#).
+repository, please report it immediately to [**equator-owl-studio@duck.com**](#).
 If you are not sure, don’t worry. Better safe than sorry – just send an email.
 Do not open issues related to any security concerns publicly. Please do not
 include anyone else on the disclosure email.
